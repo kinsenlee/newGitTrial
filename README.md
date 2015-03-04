@@ -1,0 +1,2 @@
+# newGitTrial
+Just a test
